@@ -1,5 +1,17 @@
 {
-    "require": {
-        "a5hleyrich/wp-background-processing": "^1.0"
+  "name": "deliciousbrains/wp-image-processing-queue",
+  "description": "Image Processing Queue is an alternative to on-the-fly (OTF) image processing (e.g. Aqua Resizer) for WordPress themes.",
+  "version": "0.1.1",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.2",
+    "a5hleyrich/wp-background-processing": "^1.0"
+  },
+  "license": "GPLv2+",
+  "authors": [
+    {
+      "name": "Ashley Rich",
+      "email": "hello@ashleyrich.com"
     }
+  ]
 }
